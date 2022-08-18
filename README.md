@@ -1,7 +1,7 @@
 # First  Week
 
 * Repositorio Para listar os projetos que serão desenvolvidos ao longo de 21 DIAS!!! 🔓
-* Fazer um HELLO WORLD  costumizado 🌍🔒
+* Fazer um HELLO WORLD  costumizado 🌍🔓
 * Criar um botão animado 😀🔒
 * Criar uma calculadora 🤓🔒
 * Desenvolver uma pagina customizada que apareça um ERRO 404 👻👻👻🔒
